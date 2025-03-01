@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xgL8Rl2PaHozmbhH+8HVbROgFPFNjQLAVU8fp5YNkVw=",
+  "Source": "BlockedCountries.API",
+  "BasePath": "_content/BlockedCountries.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

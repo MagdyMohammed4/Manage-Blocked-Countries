@@ -1,0 +1,16 @@
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\bin\Debug\net8.0\BlockedCountries.Application.deps.json
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\bin\Debug\net8.0\BlockedCountries.Application.dll
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\bin\Debug\net8.0\BlockedCountries.Application.pdb
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\bin\Debug\net8.0\BlockedCountries.Domain.dll
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\bin\Debug\net8.0\BlockedCountries.Domain.pdb
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.csproj.AssemblyReference.cache
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.AssemblyInfoInputs.cache
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.AssemblyInfo.cs
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.csproj.CoreCompileInputs.cache
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.sourcelink.json
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedC.05A7E73B.Up2Date
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.dll
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\refint\BlockedCountries.Application.dll
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\BlockedCountries.Application.pdb
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Application\obj\Debug\net8.0\ref\BlockedCountries.Application.dll

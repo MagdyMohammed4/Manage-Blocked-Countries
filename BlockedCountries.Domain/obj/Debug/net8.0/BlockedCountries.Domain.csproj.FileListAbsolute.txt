@@ -1,0 +1,12 @@
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\bin\Debug\net8.0\BlockedCountries.Domain.deps.json
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\bin\Debug\net8.0\BlockedCountries.Domain.dll
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\bin\Debug\net8.0\BlockedCountries.Domain.pdb
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\BlockedCountries.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\BlockedCountries.Domain.AssemblyInfoInputs.cache
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\BlockedCountries.Domain.AssemblyInfo.cs
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\BlockedCountries.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\BlockedCountries.Domain.sourcelink.json
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\BlockedCountries.Domain.dll
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\refint\BlockedCountries.Domain.dll
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\BlockedCountries.Domain.pdb
+C:\Users\MAGDY\source\repos\BlockedCountries\BlockedCountries.Domain\obj\Debug\net8.0\ref\BlockedCountries.Domain.dll
